@@ -4,7 +4,7 @@
   <title><![CDATA[Category: hello | wateryy]]></title>
   <link href="http://wateryy.github.com/blog/categories/hello/atom.xml" rel="self"/>
   <link href="http://wateryy.github.com/"/>
-  <updated>2013-03-13T19:52:57+08:00</updated>
+  <updated>2013-03-13T20:01:38+08:00</updated>
   <id>http://wateryy.github.com/</id>
   <author>
     <name><![CDATA[wateryy]]></name>
@@ -50,7 +50,7 @@
 
 <p>Hi, <code>alert</code>!</p>
 
-<p>```javascript</p>
+<p>```</p>
 
 <pre><code>var wateryy = {
     name : "wateryy",
