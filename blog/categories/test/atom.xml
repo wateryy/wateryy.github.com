@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: test | wateryy]]></title>
+  <link href="http://wateryy.github.com/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://wateryy.github.com/"/>
+  <updated>2013-03-13T19:41:40+08:00</updated>
+  <id>http://wateryy.github.com/</id>
+  <author>
+    <name><![CDATA[wateryy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://wateryy.github.com/blog/2013/03/13/hello-world/"/>
+    <updated>2013-03-13T19:29:00+08:00</updated>
+    <id>http://wateryy.github.com/blog/2013/03/13/hello-world</id>
+    <content type="html"><![CDATA[<blockquote><p>Hello</p>
+
+<blockquote><p>World</p>
+
+<blockquote><p>~~~</p></blockquote></blockquote></blockquote>
+
+<ul>
+<li>li</li>
+<li>li</li>
+<li><p>li</p>
+
+<pre><code>  this is code
+</code></pre></li>
+</ul>
+
+
+<p>1989. hi</p>
+
+<hr />
+
+<p>This is <a href="http://wateryy.github.com/" title="wateryy">an</a> inline link.</p>
+
+<hr />
+
+<p>This is <a href="http://wateryy.github.com" title="wateryy">an</a> other link.</p>
+
+<p><em>em</em></p>
+
+<p><strong>strong</strong></p>
+
+<p>Hi, <code>alert</code>!</p>
+
+<p>```javascript</p>
+
+<pre><code>var wateryy = {
+    name : "wateryy",
+    site : "http://wateryy.github.com/" 
+};
+</code></pre>
+
+<p>```</p>
+]]></content>
+  </entry>
+  
+</feed>
